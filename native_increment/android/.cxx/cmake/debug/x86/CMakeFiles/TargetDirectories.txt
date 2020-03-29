@@ -1,0 +1,3 @@
+D:/GitHub/dart_ffi_example/native_increment/android/.cxx/cmake/debug/x86/CMakeFiles/native_increment.dir
+D:/GitHub/dart_ffi_example/native_increment/android/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/GitHub/dart_ffi_example/native_increment/android/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

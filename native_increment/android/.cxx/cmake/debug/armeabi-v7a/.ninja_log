@@ -1,0 +1,3 @@
+# ninja log v5
+1	90	0	CMakeFiles/native_increment.dir/D_/GitHub/dart_ffi_example/native_increment/ios/Classes/native_increment.cpp.o	9bccefffaf667dd5
+91	181	0	D:/GitHub/dart_ffi_example/native_increment/example/build/native_add/intermediates/cmake/debug/obj/armeabi-v7a/libnative_increment.so	5d6f6a50a4b5972e

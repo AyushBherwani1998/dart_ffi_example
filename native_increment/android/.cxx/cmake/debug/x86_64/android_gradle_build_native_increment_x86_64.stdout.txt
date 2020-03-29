@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/native_increment.dir/D_/GitHub/dart_ffi_example/native_increment/ios/Classes/native_increment.cpp.o
+[2/2] Linking CXX shared library D:\GitHub\dart_ffi_example\native_increment\example\build\native_add\intermediates\cmake\debug\obj\x86_64\libnative_increment.so

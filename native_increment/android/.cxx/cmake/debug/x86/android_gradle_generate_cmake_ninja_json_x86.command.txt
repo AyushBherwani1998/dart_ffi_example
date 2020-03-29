@@ -1,0 +1,14 @@
+Executable : D:\SDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\GitHub\dart_ffi_example\native_increment\android
+-BD:\GitHub\dart_ffi_example\native_increment\android\.cxx\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\GitHub\dart_ffi_example\native_increment\example\build\native_add\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=D:\SDK\ndk\21.0.6113669
+-DCMAKE_TOOLCHAIN_FILE=D:\SDK\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\SDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
