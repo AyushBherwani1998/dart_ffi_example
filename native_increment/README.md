@@ -1,4 +1,4 @@
-# native_add
+# native_increment
 
 A new flutter plugin project.
 
